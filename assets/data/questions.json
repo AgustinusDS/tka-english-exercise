@@ -39,8 +39,8 @@
     "num": 3,
     "type": "PG",
     "bentuk": "Pilihan Ganda",
-    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit.",
-    "sub_comp": "Menemukan/mengidentifikasi Informasi.",
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
     "text": "<h3 style='text-align: center;'>The Beauty of Bunaken National Park</h3><p>Bunaken National Park is a world-famous marine park located at the northern tip of Sulawesi Island, Indonesia. Established in 1991, it covers an area of approximately 890 square kilometers. The park is renowned for its incredibly rich biodiversity, particularly its underwater life. It is home to over 390 species of coral and thousands of fish species, making it a paradise for divers and snorkelers from all around the globe.</p><p>The most striking feature of Bunaken is its massive underwater walls, also known as \"hanging gardens.\" These vertical coral walls drop deep into the ocean, covered in vibrant sponges, sea fans, and soft corals. The water is exceptionally clear, with visibility reaching up to 30 meters on a good day. This clarity allows visitors to see the intricate details of the reef and the schools of colorful fish, such as butterflyfish, damselfish, and the occasional sea turtle swimming gracefully by.</p><p>On the islands themselves, the environment is equally beautiful. Lush mangroves fringe the coastline, providing a habitat for various birds and crabs. The local community is very involved in preserving the park, working alongside the government to reduce plastic waste and protect the reefs from destructive fishing practices.</p><p>Visiting Bunaken is not just about enjoying the view; it is an education in the importance of marine conservation.</p>",
     "q": "According to the text, how far can a diver see underwater when the conditions are good?",
     "options": [
