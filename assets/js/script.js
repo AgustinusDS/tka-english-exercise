@@ -80,10 +80,15 @@ function loadQuestion(index) {
         
         if (isLastQuestion) {
             btn.innerText = isSubmitted ? "Restart Test" : "Selesai";
-            btn.style.backgroundColor = isSubmitted ? "#007bff" : "#28a745"; // Blue for restart, Green for selesai
+            // Clean logic: Add green class if finishing, remove it if restarting (blue)
+            if (!isSubmitted) {
+                btn.classList.add('btn-finish-mode');
+            } else {
+                btn.classList.remove('btn-finish-mode');
+            }
         } else {
             btn.innerText = "Next Question";
-            btn.style.backgroundColor = ""; // Reset to default style
+            btn.classList.remove('btn-finish-mode'); // Ensure it stays blue normally
         }
     });
 
