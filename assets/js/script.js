@@ -27,17 +27,17 @@ function shuffleArray(array) {
 
 // Saves choices to memory before moving to another question
 function saveCurrentAnswer() {
-    if (isSubmitted) return; 
+    if (isSubmitted) return;
     const q = currentQuestions[currentIdx];
-    
+
     if (q.type === "PG") {
         const selected = document.querySelector('input[name="ans"]:checked');
         userAnswers[currentIdx] = selected ? selected.value : null;
-    } 
+    }
     else if (q.type === "MCMA") {
         const selected = Array.from(document.querySelectorAll('#options-mcma input[type="checkbox"]:checked')).map(cb => cb.value);
         userAnswers[currentIdx] = selected;
-    } 
+    }
     else if (q.type === "Kategori") {
         let rowAnswers = [];
         q.items.forEach((item, i) => {
@@ -52,17 +52,17 @@ function loadQuestion(index) {
     const q = currentQuestions[index];
     if (!q) return;
 
-    resetUI(); 
+    resetUI();
 
     // 1. Update Header Labels
     document.getElementById('q-num').innerText = index + 1;
     document.getElementById('q-comp').innerText = q.comp || "-";
-    document.getElementById('q-sub-comp').innerText = q.sub_comp || "-"; 
+    document.getElementById('q-sub-comp').innerText = q.sub_comp || "-";
     document.getElementById('q-bentuk').innerText = q.bentuk || "-";
     document.getElementById('q-jenis').innerText = q.jenis || "-";
     document.getElementById('question-text').innerText = q.q;
     document.getElementById('reading-content').innerHTML = q.text || "";
-    
+
     // 2. Handle Answer Key visibility
     const keyEl = document.getElementById('answer-key');
     if (keyEl) {
@@ -73,12 +73,12 @@ function loadQuestion(index) {
     // 3. Update All Navigation Buttons (Top & Bottom) Cleanly
     const allPrev = document.querySelectorAll('.btn-prev');
     const allNext = document.querySelectorAll('.btn-next');
-    
+
     allPrev.forEach(btn => btn.disabled = (index === 0));
-    
+
     allNext.forEach(btn => {
         const isLastQuestion = index === currentQuestions.length - 1;
-        
+
         if (isLastQuestion) {
             btn.innerText = isSubmitted ? "Restart Test" : "Selesai";
             // Clean logic: Add green class if finishing, remove it if restarting (blue)
@@ -104,7 +104,7 @@ function loadQuestion(index) {
             if (isSubmitted && userAnswers[index] == i && !q.correct?.includes(i)) highlight = "wrong-highlight";
             return `<label class="option ${highlight}"><input type="radio" name="ans" value="${i}" ${userAnswers[index] == i ? "checked" : ""} ${disableAttr}> <span>${opt}</span></label>`;
         }).join('');
-    } 
+    }
     else if (q.type === "MCMA") {
         document.getElementById('ui-mcma').classList.remove('hidden');
         const optionsDiv = document.getElementById('options-mcma');
@@ -128,6 +128,9 @@ function loadQuestion(index) {
             return `<tr>${rowHtml}</tr>`;
         }).join('');
     }
+
+    // Automatically scroll to the top of the page when the question loads
+    window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
 function resetUI() {
@@ -140,13 +143,13 @@ function resetUI() {
     if (table) table.innerHTML = '';
 }
 
-function handleNextClick() { 
-    saveCurrentAnswer(); 
-    const isLastQuestion = currentIdx === currentQuestions.length - 1; 
+function handleNextClick() {
+    saveCurrentAnswer();
+    const isLastQuestion = currentIdx === currentQuestions.length - 1;
 
     if (isLastQuestion && isSubmitted) {
-        restartTest(); 
-    } else if (isLastQuestion && !isSubmitted) { 
+        restartTest();
+    } else if (isLastQuestion && !isSubmitted) {
         // Target all next buttons safely
         const allNext = document.querySelectorAll('.btn-next');
 
@@ -164,10 +167,10 @@ function handleNextClick() {
             const modal = document.getElementById('konfirmasi-modal');
             if (modal) modal.classList.remove('hidden');
         }, 1500);
-    } else { 
-        currentIdx++; 
-        loadQuestion(currentIdx); 
-    } 
+    } else {
+        currentIdx++;
+        loadQuestion(currentIdx);
+    }
 }
 
 function prevQuestion() {
@@ -178,13 +181,13 @@ function prevQuestion() {
     }
 }
 
-function submitExam() { 
-    isSubmitted = true; 
-    currentIdx = 0; 
-    const btnReveal = document.querySelector('.btn-reveal'); 
-    if (btnReveal) btnReveal.style.display = 'none'; 
-    loadQuestion(currentIdx); 
-    window.scrollTo(0, 0); 
+function submitExam() {
+    isSubmitted = true;
+    currentIdx = 0;
+    const btnReveal = document.querySelector('.btn-reveal');
+    if (btnReveal) btnReveal.style.display = 'none';
+    loadQuestion(currentIdx);
+    window.scrollTo(0, 0);
 }
 
 // Opens the custom restart modal instead of using the browser's confirm()
@@ -232,7 +235,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (btnYaRestart && restartModal) {
         btnYaRestart.addEventListener('click', () => {
             restartModal.classList.add('hidden'); // Hide the modal
-            
+
             // Execute the actual restart logic
             isSubmitted = false;
             userAnswers = {};
