@@ -1347,11 +1347,11 @@
     "text": "<h3 style='text-align: center;'>The Critical Importance of Adolescent Sleep</h3><p>Quality sleep is often overlooked in the busy lives of teenagers, yet it is a fundamental pillar of health and development. While many adolescents view staying up late as a rite of passage or a necessity for studying, research consistently shows that sleep deprivation can have severe consequences. It is essential that both parents and educators prioritize sleep hygiene for the younger generation.</p><p>Firstly, sleep is vital for brain development and academic performance. During deep sleep, the brain processes the information gathered throughout the day, consolidating memories and strengthening neural connections. A sleep-deprived student often struggles with concentration, problem-solving, and creativity. Consequently, students who maintain a consistent sleep schedule of 8 to 10 hours tend to perform significantly better in examinations compared to those who sacrifice sleep for \"cramming.\"</p><p>Secondly, sleep plays a crucial role in emotional regulation. Adolescence is already a period of significant hormonal changes and emotional volatility. Lack of sleep exacerbates these issues, leading to increased irritability, anxiety, and even depression. A well-rested teenager is better equipped to handle social pressures and daily stressors with a balanced perspective.</p><p>Furthermore, physical health is directly linked to sleep duration. During sleep, the body releases growth hormones and repairs tissues. It also strengthens the immune system, making the body more resilient against common illnesses. Chronic sleep loss in teenagers has been linked to long-term health risks, including obesity and cardiovascular problems.</p><p>In conclusion, sleep is not a luxury but a biological necessity. By understanding the academic, emotional, and physical benefits of rest, society must work together to ensure that teenagers are given the time and environment they need to sleep adequately.</p>",
     "q": "What is the primary purpose of the text?",
     "options": [
-      "To explain how to install professional software on a computer.",
-      "To describe the history of the internet in schools.",
-      "To persuade the reader that digital literacy is essential for students.",
-      "To compare the cost of digital books versus traditional paper books.",
-      "To warn students about the physical dangers of using smartphones."
+      "To describe the different stages of the human sleep cycle.",
+      "To criticize schools for giving students too much homework.",
+      "To persuade the reader that teenagers need sufficient sleep for their overall well-being.",
+      "To explain the biological chemical reactions that occur during dreaming.",
+      "To compare the sleep habits of teenagers in the past with those of today."
     ],
     "key": "C",
     "correct": [
@@ -1365,13 +1365,13 @@
     "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
     "sub_comp": "Menyimpulkan hubungan sebab-akibat: mampu menafsirkan hubungan/kaitan antara gagasan/tindakan satu dan lainnya yang dinyatakan dalam teks.",
     "text": "<h3 style='text-align: center;'>The Critical Importance of Adolescent Sleep</h3><p>Quality sleep is often overlooked in the busy lives of teenagers, yet it is a fundamental pillar of health and development. While many adolescents view staying up late as a rite of passage or a necessity for studying, research consistently shows that sleep deprivation can have severe consequences. It is essential that both parents and educators prioritize sleep hygiene for the younger generation.</p><p>Firstly, sleep is vital for brain development and academic performance. During deep sleep, the brain processes the information gathered throughout the day, consolidating memories and strengthening neural connections. A sleep-deprived student often struggles with concentration, problem-solving, and creativity. Consequently, students who maintain a consistent sleep schedule of 8 to 10 hours tend to perform significantly better in examinations compared to those who sacrifice sleep for \"cramming.\"</p><p>Secondly, sleep plays a crucial role in emotional regulation. Adolescence is already a period of significant hormonal changes and emotional volatility. Lack of sleep exacerbates these issues, leading to increased irritability, anxiety, and even depression. A well-rested teenager is better equipped to handle social pressures and daily stressors with a balanced perspective.</p><p>Furthermore, physical health is directly linked to sleep duration. During sleep, the body releases growth hormones and repairs tissues. It also strengthens the immune system, making the body more resilient against common illnesses. Chronic sleep loss in teenagers has been linked to long-term health risks, including obesity and cardiovascular problems.</p><p>In conclusion, sleep is not a luxury but a biological necessity. By understanding the academic, emotional, and physical benefits of rest, society must work together to ensure that teenagers are given the time and environment they need to sleep adequately.</p>",
-    "q": "According to the second paragraph, what might happen if a student lacks digital literacy skills?",
+    "q": "According to the second paragraph, how does the brain benefit from deep sleep?",
     "options": [
-      "They will be unable to access the internet at all.",
-      "They might believe biased or incorrect information found online.",
-      "They will fail their physical education classes.",
-      "They will have to pay more for their mobile data plans.",
-      "They will lose interest in social media completely."
+      "It allows the body to release growth hormones.",
+      "It processes information and strengthens neural connections.",
+      "It helps the student avoid social pressures at school.",
+      "It increases the physical speed of neural signals during exams.",
+      "It reduces the need for the immune system to fight illnesses."
     ],
     "key": "B",
     "correct": [
@@ -1385,17 +1385,17 @@
     "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
     "sub_comp": "Meringkas: mampu menyajikan kembali isi teks secara ringkas dengan mengutip bagian penting.",
     "text": "<h3 style='text-align: center;'>The Critical Importance of Adolescent Sleep</h3><p>Quality sleep is often overlooked in the busy lives of teenagers, yet it is a fundamental pillar of health and development. While many adolescents view staying up late as a rite of passage or a necessity for studying, research consistently shows that sleep deprivation can have severe consequences. It is essential that both parents and educators prioritize sleep hygiene for the younger generation.</p><p>Firstly, sleep is vital for brain development and academic performance. During deep sleep, the brain processes the information gathered throughout the day, consolidating memories and strengthening neural connections. A sleep-deprived student often struggles with concentration, problem-solving, and creativity. Consequently, students who maintain a consistent sleep schedule of 8 to 10 hours tend to perform significantly better in examinations compared to those who sacrifice sleep for \"cramming.\"</p><p>Secondly, sleep plays a crucial role in emotional regulation. Adolescence is already a period of significant hormonal changes and emotional volatility. Lack of sleep exacerbates these issues, leading to increased irritability, anxiety, and even depression. A well-rested teenager is better equipped to handle social pressures and daily stressors with a balanced perspective.</p><p>Furthermore, physical health is directly linked to sleep duration. During sleep, the body releases growth hormones and repairs tissues. It also strengthens the immune system, making the body more resilient against common illnesses. Chronic sleep loss in teenagers has been linked to long-term health risks, including obesity and cardiovascular problems.</p><p>In conclusion, sleep is not a luxury but a biological necessity. By understanding the academic, emotional, and physical benefits of rest, society must work together to ensure that teenagers are given the time and environment they need to sleep adequately.</p>",
-    "q": "Which of the following is the best summary of the third paragraph?",
+    "q": "Based on the text, what is the likely result of a teenager being consistently sleep-deprived?",
     "options": [
-      "Digital skills are necessary for career readiness and workplace collaboration.",
-      "Engineering is the only career that requires digital knowledge.",
-      "Students should spend all their time playing video games to learn technology.",
-      "Using cloud-based platforms is a very difficult and expensive task.",
-      "The job market is currently shrinking due to the use of too much technology."
+      "They will become more creative in their problem-solving.",
+      "They will experience faster physical growth and tissue repair.",
+      "They will find it easier to consolidate memories from their studies.",
+      "Their immune system will become much stronger against common illnesses.",
+      "They are more likely to experience increased anxiety and irritability."
     ],
-    "key": "A",
+    "key": "E",
     "correct": [
-      0
+      4
     ]
   },
   {
@@ -1407,15 +1407,15 @@
     "text": "<h3 style='text-align: center;'>The Critical Importance of Adolescent Sleep</h3><p>Quality sleep is often overlooked in the busy lives of teenagers, yet it is a fundamental pillar of health and development. While many adolescents view staying up late as a rite of passage or a necessity for studying, research consistently shows that sleep deprivation can have severe consequences. It is essential that both parents and educators prioritize sleep hygiene for the younger generation.</p><p>Firstly, sleep is vital for brain development and academic performance. During deep sleep, the brain processes the information gathered throughout the day, consolidating memories and strengthening neural connections. A sleep-deprived student often struggles with concentration, problem-solving, and creativity. Consequently, students who maintain a consistent sleep schedule of 8 to 10 hours tend to perform significantly better in examinations compared to those who sacrifice sleep for \"cramming.\"</p><p>Secondly, sleep plays a crucial role in emotional regulation. Adolescence is already a period of significant hormonal changes and emotional volatility. Lack of sleep exacerbates these issues, leading to increased irritability, anxiety, and even depression. A well-rested teenager is better equipped to handle social pressures and daily stressors with a balanced perspective.</p><p>Furthermore, physical health is directly linked to sleep duration. During sleep, the body releases growth hormones and repairs tissues. It also strengthens the immune system, making the body more resilient against common illnesses. Chronic sleep loss in teenagers has been linked to long-term health risks, including obesity and cardiovascular problems.</p><p>In conclusion, sleep is not a luxury but a biological necessity. By understanding the academic, emotional, and physical benefits of rest, society must work together to ensure that teenagers are given the time and environment they need to sleep adequately.</p>",
     "q": "What is the main idea of the fourth paragraph?",
     "options": [
-      "Students should never share any information online.",
-      "Schools should ban the use of social media to prevent bullying.",
-      "Digital literacy helps students improve their typing speed.",
-      "Digital literacy promotes safety and ethical behavior in the digital world.",
-      "Privacy leaks only happen to people who do not have a digital footprint."
+      "The physical health benefits and long-term risks associated with adolescent sleep.",
+      "The role of hormones in making teenagers feel hungry during the night.",
+      "The specific types of exercises teenagers should do before going to bed.",
+      "The connection between academic performance and physical growth.",
+      "The history of cardiovascular research in young populations."
     ],
-    "key": "D",
+    "key": "A",
     "correct": [
-      3
+      0
     ]
   },
   {
@@ -1425,17 +1425,17 @@
     "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
     "sub_comp": "Menyimpulkan topik, ide pokok/gagasan utama, makna, target pembaca, tujuan penulisan teks, atau pesan moral.",
     "text": "<h3 style='text-align: center;'>The Critical Importance of Adolescent Sleep</h3><p>Quality sleep is often overlooked in the busy lives of teenagers, yet it is a fundamental pillar of health and development. While many adolescents view staying up late as a rite of passage or a necessity for studying, research consistently shows that sleep deprivation can have severe consequences. It is essential that both parents and educators prioritize sleep hygiene for the younger generation.</p><p>Firstly, sleep is vital for brain development and academic performance. During deep sleep, the brain processes the information gathered throughout the day, consolidating memories and strengthening neural connections. A sleep-deprived student often struggles with concentration, problem-solving, and creativity. Consequently, students who maintain a consistent sleep schedule of 8 to 10 hours tend to perform significantly better in examinations compared to those who sacrifice sleep for \"cramming.\"</p><p>Secondly, sleep plays a crucial role in emotional regulation. Adolescence is already a period of significant hormonal changes and emotional volatility. Lack of sleep exacerbates these issues, leading to increased irritability, anxiety, and even depression. A well-rested teenager is better equipped to handle social pressures and daily stressors with a balanced perspective.</p><p>Furthermore, physical health is directly linked to sleep duration. During sleep, the body releases growth hormones and repairs tissues. It also strengthens the immune system, making the body more resilient against common illnesses. Chronic sleep loss in teenagers has been linked to long-term health risks, including obesity and cardiovascular problems.</p><p>In conclusion, sleep is not a luxury but a biological necessity. By understanding the academic, emotional, and physical benefits of rest, society must work together to ensure that teenagers are given the time and environment they need to sleep adequately.</p>",
-    "q": "In the concluding paragraph, how does the author suggest schools should act?",
+    "q": "How many hours of sleep are recommended for adolescents according to the text?",
     "options": [
-      "By replacing all teachers with artificial intelligence.",
-      "By focusing only on computer science classes.",
-      "By reducing the amount of time students spend on digital devices.",
-      "By asking parents to teach digital skills at home instead of at school.",
-      "By incorporating digital skills across all areas of the curriculum."
+      "Exactly 12 hours",
+      "Less than 6 hours",
+      "Between 5 and 7 hours",
+      "Between 8 and 10 hours",
+      "More than 11 hours"
     ],
-    "key": "E",
+    "key": "D",
     "correct": [
-      4
+      3
     ]
   },
   {
