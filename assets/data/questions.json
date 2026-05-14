@@ -15,7 +15,9 @@
       "Its proximity to the northern tip of Sumatra"
     ],
     "key": "C",
-    "correct": [2]
+    "correct": [
+      2
+    ]
   },
   {
     "num": 2,
@@ -33,7 +35,9 @@
       "They consist mainly of plastic waste collected by locals."
     ],
     "key": "B",
-    "correct": [1]
+    "correct": [
+      1
+    ]
   },
   {
     "num": 3,
@@ -51,7 +55,9 @@
       "5 meters"
     ],
     "key": "D",
-    "correct": [3]
+    "correct": [
+      3
+    ]
   },
   {
     "num": 4,
@@ -69,7 +75,9 @@
       "It prevents sea turtles from swimming away."
     ],
     "key": "A",
-    "correct": [0]
+    "correct": [
+      0
+    ]
   },
   {
     "num": 5,
@@ -87,7 +95,9 @@
       "To highlight the collaboration between the community and conservation efforts."
     ],
     "key": "E",
-    "correct": [4]
+    "correct": [
+      4
+    ]
   },
   {
     "num": 6,
@@ -105,7 +115,11 @@
       "A cafe that serves organic coffee"
     ],
     "key": "A, C, E",
-    "correct": [0, 2, 4]
+    "correct": [
+      0,
+      2,
+      4
+    ]
   },
   {
     "num": 7,
@@ -123,7 +137,9 @@
       "Far away from the city center"
     ],
     "key": "C",
-    "correct": [2]
+    "correct": [
+      2
+    ]
   },
   {
     "num": 8,
@@ -141,7 +157,10 @@
       "There are no windows in the study areas."
     ],
     "key": "B, D",
-    "correct": [1, 3]
+    "correct": [
+      1,
+      3
+    ]
   },
   {
     "num": 9,
@@ -159,7 +178,9 @@
       "To act as a storage for old and unused furniture."
     ],
     "key": "A",
-    "correct": [0]
+    "correct": [
+      0
+    ]
   },
   {
     "num": 10,
@@ -177,7 +198,9 @@
       "The library is better than any other library in the country."
     ],
     "key": "D",
-    "correct": [2]
+    "correct": [
+      2
+    ]
   },
   {
     "num": 11,
@@ -194,7 +217,12 @@
       "Bimo makes a beep sound after cleaning."
     ],
     "key": "1-Fakta, 2-Opini, 3-Fakta, 4-Fakta",
-    "correct": [0, 1, 0, 0]
+    "correct": [
+      0,
+      1,
+      0,
+      0
+    ]
   },
   {
     "num": 12,
@@ -203,15 +231,20 @@
     "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
     "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
     "text": "<h3 style='text-align: center;'>My Helpful Robot, \"Bimo\"</h3><p>I have a unique assistant at home named Bimo. Bimo is a small, round vacuum robot that helps my family keep the house clean. He is about 30 centimeters in diameter and has a sleek, metallic silver finish. On his top surface, there is a single glowing blue button that serves as his power switch.</p><p>Bimo is equipped with advanced sensors that allow him to navigate around furniture without bumping into things. When he encounters a wall or a chair leg, he gently slows down and changes direction. He is also smart enough to detect stairs, so he never falls down. My favorite feature is his \"auto-charge\" function; when his battery is low, he automatically finds his way back to his small charging dock in the corner of the living room.</p><p>Although Bimo is just a machine, we treat him like a pet. He makes a cheerful \"beep\" sound when he finishes cleaning a room. He is very quiet, so I can study while he works on the floor. Bimo saves us a lot of time and energy every day.</p>",
-    "q": "Determine if the following statements are Benar (True) or Salah (False) based on the text.",
+    "q": "Determine if the following statements are True or False based on the text.",
     "items": [
       "Bimo's body is silver and round.",
       "There are five different colored buttons on Bimo's head.",
       "Bimo can talk and have long conversations with the owner.",
       "Bimo is capable of charging himself automatically."
     ],
-    "key": "1-Benar, 2-Salah, 3-Salah, 4-Benar",
-    "correct": [0, 1, 1, 0]
+    "key": "1-True, 2-False, 3-False, 4-True",
+    "correct": [
+      0,
+      1,
+      1,
+      0
+    ]
   },
   {
     "num": 13,
@@ -228,7 +261,12 @@
       "Human-like (looks exactly like a person)."
     ],
     "key": "1-Ya, 2-Tidak, 3-Ya, 4-Tidak",
-    "correct": [0, 1, 0, 1]
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
   },
   {
     "num": 14,
@@ -245,7 +283,12 @@
       "Blue button pressed -> Bimo starts dancing."
     ],
     "key": "1-Sesuai, 2-Tidak Sesuai, 3-Sesuai, 4-Tidak Sesuai",
-    "correct": [0, 1, 0, 1]
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
   },
   {
     "num": 15,
@@ -262,7 +305,12 @@
       "A robot that feels sad when it is lonely."
     ],
     "key": "1-Realitas, 2-Realitas, 3-Realitas, 4-Fantasi",
-    "correct": [0, 0, 0, 1]
+    "correct": [
+      0,
+      0,
+      0,
+      1
+    ]
   },
   {
     "num": 16,
@@ -280,7 +328,9 @@
       "To avoid the cold weather in Yogyakarta"
     ],
     "key": "B",
-    "correct": [1]
+    "correct": [
+      1
+    ]
   },
   {
     "num": 17,
@@ -298,7 +348,9 @@
       "Confused by the relief carvings on the walls"
     ],
     "key": "D",
-    "correct": [3]
+    "correct": [
+      3
+    ]
   },
   {
     "num": 18,
@@ -316,7 +368,9 @@
       "Suffocating"
     ],
     "key": "A",
-    "correct": [0]
+    "correct": [
+      0
+    ]
   },
   {
     "num": 19,
@@ -334,7 +388,9 @@
       "Resolution"
     ],
     "key": "C",
-    "correct": [2]
+    "correct": [
+      2
+    ]
   },
   {
     "num": 20,
@@ -352,7 +408,9 @@
       "Because they climbed hundreds of steep stairs"
     ],
     "key": "E",
-    "correct": [4]
+    "correct": [
+      4
+    ]
   },
   {
     "num": 21,
@@ -370,7 +428,11 @@
       "The practical electric light bulb"
     ],
     "key": "A, C, E",
-    "correct": [0, 2, 4]
+    "correct": [
+      0,
+      2,
+      4
+    ]
   },
   {
     "num": 22,
@@ -388,7 +450,10 @@
       "Unwilling to try new experiments"
     ],
     "key": "B, D",
-    "correct": [1, 3]
+    "correct": [
+      1,
+      3
+    ]
   },
   {
     "num": 23,
@@ -406,7 +471,10 @@
       "He started inventing light bulbs when he was five years old."
     ],
     "key": "A, D",
-    "correct": [0, 3]
+    "correct": [
+      0,
+      3
+    ]
   },
   {
     "num": 24,
@@ -424,7 +492,10 @@
       "He wanted to encourage people to stop doing experiments."
     ],
     "key": "B, C",
-    "correct": [1, 2]
+    "correct": [
+      1,
+      2
+    ]
   },
   {
     "num": 25,
@@ -442,7 +513,10 @@
       "To criticize the American education system in the 1800s."
     ],
     "key": "A, D",
-    "correct": [0, 3]
+    "correct": [
+      0,
+      3
+    ]
   },
   {
     "num": 26,
@@ -459,7 +533,12 @@
       "The text was drafted at Rear Admiral Maeda's house."
     ],
     "key": "1-Fakta, 2-Fakta, 3-Opini, 4-Fakta",
-    "correct": [0, 0, 1, 0]
+    "correct": [
+      0,
+      0,
+      1,
+      0
+    ]
   },
   {
     "num": 27,
@@ -468,15 +547,20 @@
     "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
     "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
     "text": "<h3 style='text-align: center;'>The Proclamation of Indonesian Independence</h3><p>The Proclamation of Indonesian Independence was a turning point in the nation's history. It occurred on Friday, August 17, 1945. The event was prompted by the surrender of Japan to the Allied forces after the atomic bombings of Hiroshima and Nagasaki. Earlier that morning, a group of young activists (the \"Pemuda\") urged Soekarno and Hatta to declare independence immediately. After intense discussions, the proclamation text was drafted at the house of Rear Admiral Maeda.</p><p>At 10:00 AM, Soekarno, accompanied by Moh. Hatta, read the short declaration in front of his house at Jalan Pegangsaan Timur No. 56, Jakarta. The red-and-white flag, sewn by Mrs. Fatmawati, was hoisted, and the national anthem \"Indonesia Raya\" was sung. This simple yet solemn ceremony marked the birth of a new sovereign nation, free from colonial rule.</p>",
-    "q": "Determine if the following statements are Benar (True) or Salah (False) based on the text.",
+    "q": "Determine if the following statements are True or False based on the text.",
     "items": [
       "Japan's surrender to the Allies triggered the event.",
       "The proclamation was held at a large stadium in Jakarta.",
       "Moh. Hatta read the text alone without Soekarno.",
       "The national anthem 'Indonesia Raya' was played during the event."
     ],
-    "key": "1-Benar, 2-Salah, 3-Salah, 4-Benar",
-    "correct": [0, 1, 1, 0]
+    "key": "1-True, 2-False, 3-False, 4-True",
+    "correct": [
+      0,
+      1,
+      1,
+      0
+    ]
   },
   {
     "num": 28,
@@ -493,7 +577,12 @@
       "The nation celebrated its 10th anniversary."
     ],
     "key": "1-Ya, 2-Tidak, 3-Ya, 4-Tidak",
-    "correct": [0, 1, 0, 1]
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
   },
   {
     "num": 29,
@@ -510,7 +599,12 @@
       "The 'Pemuda': Activists who urged for independence."
     ],
     "key": "1-Sesuai, 2-Sesuai, 3-Tidak Sesuai, 4-Sesuai",
-    "correct": [0, 0, 1, 0]
+    "correct": [
+      0,
+      0,
+      1,
+      0
+    ]
   },
   {
     "num": 30,
@@ -527,7 +621,12 @@
       "Chaotic (Kacau)"
     ],
     "key": "1-Ya, 2-Tidak, 3-Ya, 4-Tidak",
-    "correct": [0, 1, 0, 1]
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
   },
   {
     "num": 31,
@@ -545,7 +644,9 @@
       "To build a larger house for her family"
     ],
     "key": "C",
-    "correct": [2]
+    "correct": [
+      2
+    ]
   },
   {
     "num": 32,
@@ -563,7 +664,9 @@
       "Because the thread was of poor quality"
     ],
     "key": "A",
-    "correct": [0]
+    "correct": [
+      0
+    ]
   },
   {
     "num": 33,
@@ -581,7 +684,9 @@
       "Elara had to make a garment for a poor person"
     ],
     "key": "E",
-    "correct": [4]
+    "correct": [
+      4
+    ]
   },
   {
     "num": 34,
@@ -599,7 +704,9 @@
       "From being a weaver to becoming a queen"
     ],
     "key": "B",
-    "correct": [1]
+    "correct": [
+      1
+    ]
   },
   {
     "num": 35,
@@ -617,7 +724,9 @@
       "Hard work always leads to physical riches."
     ],
     "key": "D",
-    "correct": [3]
+    "correct": [
+      3
+    ]
   },
   {
     "num": 36,
@@ -635,7 +744,11 @@
       "The glowing symbols on the ancient oak tree"
     ],
     "key": "A, D, E",
-    "correct": [0, 3, 4]
+    "correct": [
+      0,
+      3,
+      4
+    ]
   },
   {
     "num": 37,
@@ -653,7 +766,10 @@
       "A warm and tropical environment"
     ],
     "key": "B, C",
-    "correct": [1, 2]
+    "correct": [
+      1,
+      2
+    ]
   },
   {
     "num": 38,
@@ -671,7 +787,10 @@
       "An ancient woodcutter"
     ],
     "key": "A, B",
-    "correct": [0, 1]
+    "correct": [
+      0,
+      1
+    ]
   },
   {
     "num": 39,
@@ -689,7 +808,11 @@
       "The forest is home to mysterious, magical creatures."
     ],
     "key": "C, D, E",
-    "correct": [2, 3, 4]
+    "correct": [
+      2,
+      3,
+      4
+    ]
   },
   {
     "num": 40,
@@ -707,7 +830,10 @@
       "Mia gets lost for a second time."
     ],
     "key": "B, C",
-    "correct": [1, 2]
+    "correct": [
+      1,
+      2
+    ]
   },
   {
     "num": 41,
@@ -724,7 +850,12 @@
       "Clara is the daughter of the Master Clockmaker."
     ],
     "key": "1-Fact, 2-Opinion, 3-Fact, 4-Fact",
-    "correct": [0, 1, 0, 0]
+    "correct": [
+      0,
+      1,
+      0,
+      0
+    ]
   },
   {
     "num": 42,
@@ -741,7 +872,12 @@
       "Clara’s watch started ticking at the beginning of the story."
     ],
     "key": "1-True, 2-False, 3-True, 4-False",
-    "correct": [0, 1, 0, 1]
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
   },
   {
     "num": 43,
@@ -758,7 +894,12 @@
       "The sky turned grey -> Because Clara forgot to oil the gears."
     ],
     "key": "1-Yes, 2-No, 3-Yes, 4-No",
-    "correct": [0, 1, 0, 1]
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
   },
   {
     "num": 44,
@@ -775,7 +916,12 @@
       "Twelve o'clock: The time when the Great Clock always starts."
     ],
     "key": "1-Correct, 2-Incorrect, 3-Correct, 4-Incorrect",
-    "correct": [0, 1, 0, 1]
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
   },
   {
     "num": 45,
@@ -792,7 +938,12 @@
       "The history of Oakhaven's tax system."
     ],
     "key": "1-Narrative, 2-Not Narrative, 3-Narrative, 4-Not Narrative",
-    "correct": [0, 1, 0, 1]
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
   },
   {
     "num": 46,
@@ -810,7 +961,9 @@
       "Shading materials (UV nets)"
     ],
     "key": "D",
-    "correct": [3]
+    "correct": [
+      3
+    ]
   },
   {
     "num": 47,
@@ -828,7 +981,9 @@
       "Ammonia reagent kits and lime"
     ],
     "key": "B",
-    "correct": [1]
+    "correct": [
+      1
+    ]
   },
   {
     "num": 48,
@@ -846,7 +1001,9 @@
       "To protect the mechanical aerators from rusting due to rain."
     ],
     "key": "A",
-    "correct": [0]
+    "correct": [
+      0
+    ]
   },
   {
     "num": 49,
@@ -864,7 +1021,9 @@
       "It serves as a buffering agent to neutralize acidity and stabilize pH."
     ],
     "key": "E",
-    "correct": [4]
+    "correct": [
+      4
+    ]
   },
   {
     "num": 50,
@@ -882,7 +1041,9 @@
       "The aesthetic appearance of the water sampling containers."
     ],
     "key": "C",
-    "correct": [2]
+    "correct": [
+      2
+    ]
   },
   {
     "num": 51,
@@ -900,7 +1061,11 @@
       "Deionized water and mild soap"
     ],
     "key": "B, D, E",
-    "correct": [1, 3, 4]
+    "correct": [
+      1,
+      3,
+      4
+    ]
   },
   {
     "num": 52,
@@ -918,7 +1083,10 @@
       "Binoculars"
     ],
     "key": "A, C",
-    "correct": [0, 2]
+    "correct": [
+      0,
+      2
+    ]
   },
   {
     "num": 53,
@@ -936,7 +1104,10 @@
       "The monitoring software will delete all historical performance data."
     ],
     "key": "B, C",
-    "correct": [1, 2]
+    "correct": [
+      1,
+      2
+    ]
   },
   {
     "num": 54,
@@ -954,7 +1125,11 @@
       "It enables the comparison of historical data with current efficiency."
     ],
     "key": "A, D, E",
-    "correct": [0, 3, 4]
+    "correct": [
+      0,
+      3,
+      4
+    ]
   },
   {
     "num": 55,
@@ -972,7 +1147,10 @@
       "Monitoring software is significantly more expensive than physical cleaning tools."
     ],
     "key": "A, B",
-    "correct": [0, 1]
+    "correct": [
+      0,
+      1
+    ]
   },
   {
     "num": 56,
@@ -989,7 +1167,12 @@
       "Distilled or deionized water"
     ],
     "key": "1-Required, 2-Not Required, 3-Required, 4-Not Required",
-    "correct": [0, 1, 0, 1]
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
   },
   {
     "num": 57,
@@ -1006,7 +1189,12 @@
       "Old batteries should be discarded in regular household waste."
     ],
     "key": "1-True, 2-False, 3-True, 4-False",
-    "correct": [0, 1, 0, 1]
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
   },
   {
     "num": 58,
@@ -1023,7 +1211,12 @@
       "Attempting to charge a battery that shows discoloration."
     ],
     "key": "1-Safe, 2-Dangerous, 3-Safe, 4-Dangerous",
-    "correct": [0, 1, 0, 1]
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
   },
   {
     "num": 59,
@@ -1040,7 +1233,12 @@
       "Every household must own a dedicated sand-filled container."
     ],
     "key": "1-Fact, 2-Fact, 3-Opinion, 4-Opinion",
-    "correct": [0, 0, 1, 1]
+    "correct": [
+      0,
+      0,
+      1,
+      1
+    ]
   },
   {
     "num": 60,
@@ -1057,7 +1255,12 @@
       "Taping terminals to prevent conductive contact."
     ],
     "key": "1-Early Stage, 2-Late Stage, 3-Early Stage, 4-Late Stage",
-    "correct": [0, 1, 0, 1]
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
   },
   {
     "num": 61,
@@ -1075,7 +1278,9 @@
       "To warn students about the physical dangers of using smartphones."
     ],
     "key": "C",
-    "correct": [2]
+    "correct": [
+      2
+    ]
   },
   {
     "num": 62,
@@ -1093,7 +1298,9 @@
       "They will lose interest in social media completely."
     ],
     "key": "B",
-    "correct": [1]
+    "correct": [
+      1
+    ]
   },
   {
     "num": 63,
@@ -1111,7 +1318,9 @@
       "The job market is currently shrinking due to the use of too much technology."
     ],
     "key": "A",
-    "correct": [0]
+    "correct": [
+      0
+    ]
   },
   {
     "num": 64,
@@ -1129,7 +1338,9 @@
       "Privacy leaks only happen to people who do not have a digital footprint."
     ],
     "key": "D",
-    "correct": [3]
+    "correct": [
+      3
+    ]
   },
   {
     "num": 65,
@@ -1147,7 +1358,9 @@
       "By incorporating digital skills across all areas of the curriculum."
     ],
     "key": "E",
-    "correct": [4]
+    "correct": [
+      4
+    ]
   },
   {
     "num": 66,
@@ -1165,7 +1378,11 @@
       "Struggles with memory consolidation"
     ],
     "key": "A, C, E",
-    "correct": [0, 2, 4]
+    "correct": [
+      0,
+      2,
+      4
+    ]
   },
   {
     "num": 67,
@@ -1183,7 +1400,9 @@
       "The main benefit of remote work is the ability to use more digital paper."
     ],
     "key": "B",
-    "correct": [1]
+    "correct": [
+      1
+    ]
   },
   {
     "num": 68,
@@ -1201,7 +1420,9 @@
       "By forcing people to stay indoors during the day."
     ],
     "key": "B",
-    "correct": [1]
+    "correct": [
+      1
+    ]
   },
   {
     "num": 69,
@@ -1219,7 +1440,9 @@
       "The job market for security guards will increase."
     ],
     "key": "C",
-    "correct": [2]
+    "correct": [
+      2
+    ]
   },
   {
     "num": 70,
@@ -1237,7 +1460,9 @@
       "The total elimination of the internet during work hours."
     ],
     "key": "C",
-    "correct": [2]
+    "correct": [
+      2
+    ]
   },
   {
     "num": 71,
@@ -1254,7 +1479,12 @@
       "Automated savings and investment platforms"
     ],
     "key": "1-Tool/Skill, 2-Risk, 3-Risk, 4-Tool/Skill",
-    "correct": [0, 1, 1, 0]
+    "correct": [
+      0,
+      1,
+      1,
+      0
+    ]
   },
   {
     "num": 72,
@@ -1263,15 +1493,20 @@
     "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
     "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
     "text": "<h3 style='text-align: center;'>The Necessity of Financial Literacy in Schools</h3><p>As students transition into adulthood, they face a complex world of credit cards, loans, and investment opportunities. Unfortunately, many young people enter the \"real world\" without basic financial knowledge. Therefore, it is imperative that financial literacy becomes a mandatory part of the high school curriculum.</p><p>One primary reason is the prevention of debt. Many young adults fall into the trap of high-interest credit card debt because they do not understand how interest rates or minimum payments work. By teaching students how to manage debt and understand credit scores, schools can help them avoid financial burdens that could last for decades.</p><p>Furthermore, financial literacy empowers students to plan for the future. Understanding the power of compound interest and the importance of early savings can lead to long-term wealth and stability. Students who learn to budget their money are more likely to achieve their goals, such as buying a home or starting a business, without relying on predatory loans.</p><p>Finally, financial education protects individuals from fraud. In the digital age, financial scams are becoming increasingly sophisticated. A financially literate person is better at recognizing \"too good to be true\" offers and protecting their personal information. Knowledge is the best defense against those who wish to exploit financial ignorance.</p><p>In summary, providing students with financial skills is an investment in their future. It ensures they are responsible, prepared, and protected as they navigate their economic lives.</p>",
-    "q": "Determine if the following statements are Benar (True) or Salah (False) according to the text.",
+    "q": "Determine if the following statements are True or False according to the text.",
     "items": [
       "Financial literacy is primarily about becoming a millionaire quickly.",
       "Digital tools can help individuals track their spending in real-time.",
       "Understanding credit scores is irrelevant for long-term goals like buying a home.",
       "Financial education helps people recognize 'too good to be true' offers."
     ],
-    "key": "1-Salah, 2-Benar, 3-Salah, 4-Benar",
-    "correct": [1, 0, 1, 0]
+    "key": "1-False, 2-True, 3-False, 4-True",
+    "correct": [
+      1,
+      0,
+      1,
+      0
+    ]
   },
   {
     "num": 73,
@@ -1288,7 +1523,12 @@
       "Using digital tools -> Automatically results in loss of savings."
     ],
     "key": "1-Sesuai, 2-Tidak Sesuai, 3-Sesuai, 4-Tidak Sesuai",
-    "correct": [0, 1, 0, 1]
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
   },
   {
     "num": 74,
@@ -1305,7 +1545,12 @@
       "Paying only the minimum payment without checking interest rates."
     ],
     "key": "1-Financial Literacy, 2-Financial Ignorance, 3-Financial Literacy, 4-Financial Ignorance",
-    "correct": [0, 1, 0, 1]
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
   },
   {
     "num": 75,
@@ -1322,6 +1567,11 @@
       "A list of the top five budgeting apps currently available for free."
     ],
     "key": "1-Valid, 2-Invalid, 3-Valid, 4-Invalid",
-    "correct": [0, 1, 0, 1]
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
   }
 ]
