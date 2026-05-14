@@ -206,17 +206,21 @@
     "num": 11,
     "type": "Kategori",
     "bentuk": "PGK Kategori",
+    "columns": [
+      "Fact",
+      "Opinion"
+    ],
     "comp": "Evaluasi dan Apresiasi: mampu membuat penilaian terhadap ide, menanggapi teks secara emosional dan estetis dengan mempertimbangkan dampaknya terhadap perasaan, imajinasi, serta penggunaan bahasa oleh penulis.",
     "sub_comp": "Menilai fakta atau opini: mampu menilai fakta/opini yang diberikan penulis untuk mendukung pendapatnya berdasarkan bukti atau sekadar berusaha mempengaruhi pembaca.",
     "text": "<h3 style='text-align: center;'>My Helpful Robot, \"Bimo\"</h3><p>I have a unique assistant at home named Bimo. Bimo is a small, round vacuum robot that helps my family keep the house clean. He is about 30 centimeters in diameter and has a sleek, metallic silver finish. On his top surface, there is a single glowing blue button that serves as his power switch.</p><p>Bimo is equipped with advanced sensors that allow him to navigate around furniture without bumping into things. When he encounters a wall or a chair leg, he gently slows down and changes direction. He is also smart enough to detect stairs, so he never falls down. My favorite feature is his \"auto-charge\" function; when his battery is low, he automatically finds his way back to his small charging dock in the corner of the living room.</p><p>Although Bimo is just a machine, we treat him like a pet. He makes a cheerful \"beep\" sound when he finishes cleaning a room. He is very quiet, so I can study while he works on the floor. Bimo saves us a lot of time and energy every day.</p>",
-    "q": "Categorize each statement based on the text into Fakta (Fact) or Opini (Opinion).",
+    "q": "Categorize each statement based on the text into Fact or Opinion.",
     "items": [
       "Bimo has a diameter of about 30 centimeters.",
       "Bimo is the most adorable robot ever made.",
       "Bimo returns to his dock when his battery is low.",
       "Bimo makes a beep sound after cleaning."
     ],
-    "key": "1-Fakta, 2-Opini, 3-Fakta, 4-Fakta",
+    "key": "1-Fact, 2-Opinion, 3-Fact, 4-Fact",
     "correct": [
       0,
       1,
@@ -250,17 +254,21 @@
     "num": 13,
     "type": "Kategori",
     "bentuk": "PGK Kategori",
+    "columns": [
+      "Yes",
+      "No"
+    ],
     "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
     "sub_comp": "Menyimpulkan karakter tokoh: mampu menyimpulkan sifat atau kepribadian tokoh berdasarkan petunjuk eksplisit dalam teks.",
     "text": "<h3 style='text-align: center;'>My Helpful Robot, \"Bimo\"</h3><p>I have a unique assistant at home named Bimo. Bimo is a small, round vacuum robot that helps my family keep the house clean. He is about 30 centimeters in diameter and has a sleek, metallic silver finish. On his top surface, there is a single glowing blue button that serves as his power switch.</p><p>Bimo is equipped with advanced sensors that allow him to navigate around furniture without bumping into things. When he encounters a wall or a chair leg, he gently slows down and changes direction. He is also smart enough to detect stairs, so he never falls down. My favorite feature is his \"auto-charge\" function; when his battery is low, he automatically finds his way back to his small charging dock in the corner of the living room.</p><p>Although Bimo is just a machine, we treat him like a pet. He makes a cheerful \"beep\" sound when he finishes cleaning a room. He is very quiet, so I can study while he works on the floor. Bimo saves us a lot of time and energy every day.</p>",
-    "q": "Does Bimo possess the following qualities according to the text? Choose Ya or Tidak.",
+    "q": "Does Bimo possess the following qualities according to the text? Choose Yes or No.",
     "items": [
       "Independent (can charge himself).",
       "Aggressive (bumps into walls forcefully).",
       "Efficient (saves time for the owner).",
       "Human-like (looks exactly like a person)."
     ],
-    "key": "1-Ya, 2-Tidak, 3-Ya, 4-Tidak",
+    "key": "1-Yes, 2-No, 3-Yes, 4-No",
     "correct": [
       0,
       1,
@@ -272,17 +280,21 @@
     "num": 14,
     "type": "Kategori",
     "bentuk": "PGK Kategori",
+    "columns": [
+      "Correct",
+      "Incorrect"
+    ],
     "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
     "sub_comp": "Menyimpulkan hubungan sebab-akibat: mampu menafsirkan hubungan/kaitan antara gagasan/tindakan satu dan lainnya yang dinyatakan dalam teks.",
     "text": "<h3 style='text-align: center;'>My Helpful Robot, \"Bimo\"</h3><p>I have a unique assistant at home named Bimo. Bimo is a small, round vacuum robot that helps my family keep the house clean. He is about 30 centimeters in diameter and has a sleek, metallic silver finish. On his top surface, there is a single glowing blue button that serves as his power switch.</p><p>Bimo is equipped with advanced sensors that allow him to navigate around furniture without bumping into things. When he encounters a wall or a chair leg, he gently slows down and changes direction. He is also smart enough to detect stairs, so he never falls down. My favorite feature is his \"auto-charge\" function; when his battery is low, he automatically finds his way back to his small charging dock in the corner of the living room.</p><p>Although Bimo is just a machine, we treat him like a pet. He makes a cheerful \"beep\" sound when he finishes cleaning a room. He is very quiet, so I can study while he works on the floor. Bimo saves us a lot of time and energy every day.</p>",
-    "q": "Match the Cause and Effect based on the text. Are these pairs Sesuai (Correct) or Tidak Sesuai (Incorrect)?",
+    "q": "Match the Cause and Effect based on the text. Are these pairs Correct or Incorrect?",
     "items": [
       "Low battery -> Bimo goes to the charging dock.",
       "Seeing stairs -> Bimo falls down intentionally.",
       "Advanced sensors -> Bimo changes direction near walls.",
       "Blue button pressed -> Bimo starts dancing."
     ],
-    "key": "1-Sesuai, 2-Tidak Sesuai, 3-Sesuai, 4-Tidak Sesuai",
+    "key": "1-Correct, 2-Incorrect, 3-Correct, 4-Incorrect",
     "correct": [
       0,
       1,
@@ -294,17 +306,21 @@
     "num": 15,
     "type": "Kategori",
     "bentuk": "PGK Kategori",
+    "columns": [
+      "Realitas",
+      "Fantasi"
+    ],
     "comp": "Evaluasi dan Apresiasi: mampu membuat penilaian terhadap ide, menanggapi teks secara emosional dan estetis dengan mempertimbangkan dampaknya terhadap perasaan, imajinasi, serta penggunaan bahasa oleh penulis.",
     "sub_comp": "Menilai realitas atau fantasi: mampu menganalisis peristiwa dalam teks dapat terjadi dalam kehidupan nyata berdasarkan pengalaman dan pengetahuan pribadi.",
     "text": "<h3 style='text-align: center;'>My Helpful Robot, \"Bimo\"</h3><p>I have a unique assistant at home named Bimo. Bimo is a small, round vacuum robot that helps my family keep the house clean. He is about 30 centimeters in diameter and has a sleek, metallic silver finish. On his top surface, there is a single glowing blue button that serves as his power switch.</p><p>Bimo is equipped with advanced sensors that allow him to navigate around furniture without bumping into things. When he encounters a wall or a chair leg, he gently slows down and changes direction. He is also smart enough to detect stairs, so he never falls down. My favorite feature is his \"auto-charge\" function; when his battery is low, he automatically finds his way back to his small charging dock in the corner of the living room.</p><p>Although Bimo is just a machine, we treat him like a pet. He makes a cheerful \"beep\" sound when he finishes cleaning a room. He is very quiet, so I can study while he works on the floor. Bimo saves us a lot of time and energy every day.</p>",
-    "q": "Determine if the following descriptions of Bimo represent Realitas (Reality/Modern Tech) or Fantasi (Fantasy).",
+    "q": "Determine if the following descriptions of Bimo represent Reality or Fantasy.",
     "items": [
       "A robot that vacuums the floor automatically.",
       "A machine that detects objects using sensors.",
       "A device that emits beeps to communicate status.",
       "A robot that feels sad when it is lonely."
     ],
-    "key": "1-Realitas, 2-Realitas, 3-Realitas, 4-Fantasi",
+    "key": "1-Reality, 2-Reality, 3-Reality, 4-Fantasy",
     "correct": [
       0,
       0,
@@ -522,17 +538,21 @@
     "num": 26,
     "type": "Kategori",
     "bentuk": "PGK Kategori",
+    "columns": [
+      "Fact",
+      "Opinion"
+    ],
     "comp": "Evaluasi dan Apresiasi: mampu membuat penilaian terhadap ide, menanggapi teks secara emosional dan estetis dengan mempertimbangkan dampaknya terhadap perasaan, imajinasi, serta penggunaan bahasa oleh penulis.",
     "sub_comp": "Menilai fakta atau opini: mampu menilai fakta/opini yang diberikan penulis untuk mendukung pendapatnya berdasarkan bukti atau sekadar berusaha mempengaruhi pembaca.",
     "text": "<h3 style='text-align: center;'>The Proclamation of Indonesian Independence</h3><p>The Proclamation of Indonesian Independence was a turning point in the nation's history. It occurred on Friday, August 17, 1945. The event was prompted by the surrender of Japan to the Allied forces after the atomic bombings of Hiroshima and Nagasaki. Earlier that morning, a group of young activists (the \"Pemuda\") urged Soekarno and Hatta to declare independence immediately. After intense discussions, the proclamation text was drafted at the house of Rear Admiral Maeda.</p><p>At 10:00 AM, Soekarno, accompanied by Moh. Hatta, read the short declaration in front of his house at Jalan Pegangsaan Timur No. 56, Jakarta. The red-and-white flag, sewn by Mrs. Fatmawati, was hoisted, and the national anthem \"Indonesia Raya\" was sung. This simple yet solemn ceremony marked the birth of a new sovereign nation, free from colonial rule.</p>",
-    "q": "Categorize each statement based on the text into Fakta (Fact) or Opini (Opinion).",
+    "q": "Categorize each statement based on the text into Fact or Opinion.",
     "items": [
       "The proclamation took place on August 17, 1945.",
       "The flag was sewn by Mrs. Fatmawati.",
       "The ceremony was the most beautiful event in the world.",
       "The text was drafted at Rear Admiral Maeda's house."
     ],
-    "key": "1-Fakta, 2-Fakta, 3-Opini, 4-Fakta",
+    "key": "1-Fact, 2-Fact, 3-Opinion, 4-Fact",
     "correct": [
       0,
       0,
@@ -544,6 +564,10 @@
     "num": 27,
     "type": "Kategori",
     "bentuk": "PGK Kategori",
+    "columns": [
+      "True",
+      "False"
+    ],
     "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
     "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
     "text": "<h3 style='text-align: center;'>The Proclamation of Indonesian Independence</h3><p>The Proclamation of Indonesian Independence was a turning point in the nation's history. It occurred on Friday, August 17, 1945. The event was prompted by the surrender of Japan to the Allied forces after the atomic bombings of Hiroshima and Nagasaki. Earlier that morning, a group of young activists (the \"Pemuda\") urged Soekarno and Hatta to declare independence immediately. After intense discussions, the proclamation text was drafted at the house of Rear Admiral Maeda.</p><p>At 10:00 AM, Soekarno, accompanied by Moh. Hatta, read the short declaration in front of his house at Jalan Pegangsaan Timur No. 56, Jakarta. The red-and-white flag, sewn by Mrs. Fatmawati, was hoisted, and the national anthem \"Indonesia Raya\" was sung. This simple yet solemn ceremony marked the birth of a new sovereign nation, free from colonial rule.</p>",
@@ -566,6 +590,10 @@
     "num": 28,
     "type": "Kategori",
     "bentuk": "PGK Kategori",
+    "columns": [
+      "Yes",
+      "No"
+    ],
     "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
     "sub_comp": "Menyimpulkan urutan kejadian: mampu memperkirakan isi selanjutnya dari teks.",
     "text": "<h3 style='text-align: center;'>The Proclamation of Indonesian Independence</h3><p>The Proclamation of Indonesian Independence was a turning point in the nation's history. It occurred on Friday, August 17, 1945. The event was prompted by the surrender of Japan to the Allied forces after the atomic bombings of Hiroshima and Nagasaki. Earlier that morning, a group of young activists (the \"Pemuda\") urged Soekarno and Hatta to declare independence immediately. After intense discussions, the proclamation text was drafted at the house of Rear Admiral Maeda.</p><p>At 10:00 AM, Soekarno, accompanied by Moh. Hatta, read the short declaration in front of his house at Jalan Pegangsaan Timur No. 56, Jakarta. The red-and-white flag, sewn by Mrs. Fatmawati, was hoisted, and the national anthem \"Indonesia Raya\" was sung. This simple yet solemn ceremony marked the birth of a new sovereign nation, free from colonial rule.</p>",
@@ -576,7 +604,7 @@
       "The proclamation text was drafted at Maeda's house.",
       "The nation celebrated its 10th anniversary."
     ],
-    "key": "1-Ya, 2-Tidak, 3-Ya, 4-Tidak",
+    "key": "1-Yes, 2-No, 3-Yes, 4-No",
     "correct": [
       0,
       1,
@@ -588,17 +616,21 @@
     "num": 29,
     "type": "Kategori",
     "bentuk": "PGK Kategori",
+    "columns": [
+      "Correct",
+      "Incorrect"
+    ],
     "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
     "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
     "text": "<h3 style='text-align: center;'>The Proclamation of Indonesian Independence</h3><p>The Proclamation of Indonesian Independence was a turning point in the nation's history. It occurred on Friday, August 17, 1945. The event was prompted by the surrender of Japan to the Allied forces after the atomic bombings of Hiroshima and Nagasaki. Earlier that morning, a group of young activists (the \"Pemuda\") urged Soekarno and Hatta to declare independence immediately. After intense discussions, the proclamation text was drafted at the house of Rear Admiral Maeda.</p><p>At 10:00 AM, Soekarno, accompanied by Moh. Hatta, read the short declaration in front of his house at Jalan Pegangsaan Timur No. 56, Jakarta. The red-and-white flag, sewn by Mrs. Fatmawati, was hoisted, and the national anthem \"Indonesia Raya\" was sung. This simple yet solemn ceremony marked the birth of a new sovereign nation, free from colonial rule.</p>",
-    "q": "Match the figures with their roles mentioned in the text. Are these pairs Sesuai (Correct) or Tidak Sesuai (Incorrect)?",
+    "q": "Match the figures with their roles mentioned in the text. Are these pairs Correct or Incorrect?",
     "items": [
       "Soekarno: Reader of the proclamation text.",
       "Mrs. Fatmawati: Person who sewed the flag.",
       "Rear Admiral Maeda: The person who read the anthem.",
       "The 'Pemuda': Activists who urged for independence."
     ],
-    "key": "1-Sesuai, 2-Sesuai, 3-Tidak Sesuai, 4-Sesuai",
+    "key": "1-Correct, 2-Correct, 3-Incorrect, 4-Correct",
     "correct": [
       0,
       0,
@@ -610,6 +642,10 @@
     "num": 30,
     "type": "Kategori",
     "bentuk": "PGK Kategori",
+    "columns": [
+      "Yes",
+      "No"
+    ],
     "comp": "Evaluasi dan Apresiasi: mampu membuat penilaian terhadap ide, menanggapi teks secara emosional dan estetis dengan mempertimbangkan dampaknya terhadap perasaan, imajinasi, serta penggunaan bahasa oleh penulis.",
     "sub_comp": "Menilai kesesuaian: mampu menentukan bagian teks yang paling sesuai untuk menggambarkan karakter utama atau aspek lain dari bacaan.",
     "text": "<h3 style='text-align: center;'>The Proclamation of Indonesian Independence</h3><p>The Proclamation of Indonesian Independence was a turning point in the nation's history. It occurred on Friday, August 17, 1945. The event was prompted by the surrender of Japan to the Allied forces after the atomic bombings of Hiroshima and Nagasaki. Earlier that morning, a group of young activists (the \"Pemuda\") urged Soekarno and Hatta to declare independence immediately. After intense discussions, the proclamation text was drafted at the house of Rear Admiral Maeda.</p><p>At 10:00 AM, Soekarno, accompanied by Moh. Hatta, read the short declaration in front of his house at Jalan Pegangsaan Timur No. 56, Jakarta. The red-and-white flag, sewn by Mrs. Fatmawati, was hoisted, and the national anthem \"Indonesia Raya\" was sung. This simple yet solemn ceremony marked the birth of a new sovereign nation, free from colonial rule.</p>",
@@ -620,7 +656,7 @@
       "Simple (Sederhana)",
       "Chaotic (Kacau)"
     ],
-    "key": "1-Ya, 2-Tidak, 3-Ya, 4-Tidak",
+    "key": "1-Yes, 2-No, 3-Yes, 4-No",
     "correct": [
       0,
       1,
@@ -839,6 +875,10 @@
     "num": 41,
     "type": "Kategori",
     "bentuk": "PGK Kategori",
+    "columns": [
+      "Fact",
+      "Opinion"
+    ],
     "comp": "Evaluasi dan Apresiasi: mampu membuat penilaian terhadap ide, menanggapi teks secara emosional dan estetis.",
     "sub_comp": "Menilai fakta atau opini: mampu menilai fakta/opini yang diberikan penulis untuk mendukung pendapatnya.",
     "text": "<h3 style='text-align: center;'>The Clockmaker’s Daughter</h3><p>In the clock-tower city of Oakhaven, time was the most valuable thing. Every citizen was given a small silver watch at birth that showed how much time they had to complete their life's work. Clara, the daughter of the Master Clockmaker, was different. Her watch didn't tick; it stayed perfectly still at twelve o'clock. Because of this, many people in the city thought she was cursed or broken.</p><p>Clara spent her days in her father’s workshop, surrounded by cogs, springs, and the smell of oil. One day, the Great City Clock—the machine that powered all the watches in Oakhaven—suddenly stopped. The city fell into a panic. People froze in place, and the sky turned a dull grey. Only Clara could still move, because her time had never been tied to the Great Clock. She realized that the \"curse\" was actually a gift.</p><p>She climbed the highest tower and looked into the giant gears of the Great Clock. She found that a small bird had built a nest inside the main spring, stopping the mechanism. Clara gently moved the nest to a safe window ledge and used her own \"still\" watch to jump-start the gears. As she touched the main wheel, her watch finally began to tick. The city roared back to life, and the sky turned blue again.</p><p>The people realized that being \"different\" didn't mean being \"broken.\" Clara wasn't a girl with no time; she was the girl who held time in her hands.</p>",
@@ -861,6 +901,10 @@
     "num": 42,
     "type": "Kategori",
     "bentuk": "PGK Kategori",
+    "columns": [
+      "True",
+      "False"
+    ],
     "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
     "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
     "text": "<h3 style='text-align: center;'>The Clockmaker’s Daughter</h3><p>In the clock-tower city of Oakhaven, time was the most valuable thing. Every citizen was given a small silver watch at birth that showed how much time they had to complete their life's work. Clara, the daughter of the Master Clockmaker, was different. Her watch didn't tick; it stayed perfectly still at twelve o'clock. Because of this, many people in the city thought she was cursed or broken.</p><p>Clara spent her days in her father’s workshop, surrounded by cogs, springs, and the smell of oil. One day, the Great City Clock—the machine that powered all the watches in Oakhaven—suddenly stopped. The city fell into a panic. People froze in place, and the sky turned a dull grey. Only Clara could still move, because her time had never been tied to the Great Clock. She realized that the \"curse\" was actually a gift.</p><p>She climbed the highest tower and looked into the giant gears of the Great Clock. She found that a small bird had built a nest inside the main spring, stopping the mechanism. Clara gently moved the nest to a safe window ledge and used her own \"still\" watch to jump-start the gears. As she touched the main wheel, her watch finally began to tick. The city roared back to life, and the sky turned blue again.</p><p>The people realized that being \"different\" didn't mean being \"broken.\" Clara wasn't a girl with no time; she was the girl who held time in her hands.</p>",
@@ -883,6 +927,10 @@
     "num": 43,
     "type": "Kategori",
     "bentuk": "PGK Kategori",
+    "columns": [
+      "Yes",
+      "No"
+    ],
     "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi.",
     "sub_comp": "Menyimpulkan hubungan sebab-akibat: mampu menafsirkan hubungan/kaitan antara gagasan/tindakan satu dan lainnya yang dinyatakan dalam teks.",
     "text": "<h3 style='text-align: center;'>The Clockmaker’s Daughter</h3><p>In the clock-tower city of Oakhaven, time was the most valuable thing. Every citizen was given a small silver watch at birth that showed how much time they had to complete their life's work. Clara, the daughter of the Master Clockmaker, was different. Her watch didn't tick; it stayed perfectly still at twelve o'clock. Because of this, many people in the city thought she was cursed or broken.</p><p>Clara spent her days in her father’s workshop, surrounded by cogs, springs, and the smell of oil. One day, the Great City Clock—the machine that powered all the watches in Oakhaven—suddenly stopped. The city fell into a panic. People froze in place, and the sky turned a dull grey. Only Clara could still move, because her time had never been tied to the Great Clock. She realized that the \"curse\" was actually a gift.</p><p>She climbed the highest tower and looked into the giant gears of the Great Clock. She found that a small bird had built a nest inside the main spring, stopping the mechanism. Clara gently moved the nest to a safe window ledge and used her own \"still\" watch to jump-start the gears. As she touched the main wheel, her watch finally began to tick. The city roared back to life, and the sky turned blue again.</p><p>The people realized that being \"different\" didn't mean being \"broken.\" Clara wasn't a girl with no time; she was the girl who held time in her hands.</p>",
@@ -905,6 +953,10 @@
     "num": 44,
     "type": "Kategori",
     "bentuk": "PGK Kategori",
+    "columns": [
+      "Correct",
+      "Incorrect"
+    ],
     "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi.",
     "sub_comp": "Menyimpulkan detail pendukung: mampu menentukan fakta tambahan yang membuat teks lebih informatif, menarik, atau persuasif.",
     "text": "<h3 style='text-align: center;'>The Clockmaker’s Daughter</h3><p>In the clock-tower city of Oakhaven, time was the most valuable thing. Every citizen was given a small silver watch at birth that showed how much time they had to complete their life's work. Clara, the daughter of the Master Clockmaker, was different. Her watch didn't tick; it stayed perfectly still at twelve o'clock. Because of this, many people in the city thought she was cursed or broken.</p><p>Clara spent her days in her father’s workshop, surrounded by cogs, springs, and the smell of oil. One day, the Great City Clock—the machine that powered all the watches in Oakhaven—suddenly stopped. The city fell into a panic. People froze in place, and the sky turned a dull grey. Only Clara could still move, because her time had never been tied to the Great Clock. She realized that the \"curse\" was actually a gift.</p><p>She climbed the highest tower and looked into the giant gears of the Great Clock. She found that a small bird had built a nest inside the main spring, stopping the mechanism. Clara gently moved the nest to a safe window ledge and used her own \"still\" watch to jump-start the gears. As she touched the main wheel, her watch finally began to tick. The city roared back to life, and the sky turned blue again.</p><p>The people realized that being \"different\" didn't mean being \"broken.\" Clara wasn't a girl with no time; she was the girl who held time in her hands.</p>",
@@ -927,6 +979,10 @@
     "num": 45,
     "type": "Kategori",
     "bentuk": "PGK Kategori",
+    "columns": [
+      "Narrative",
+      "Not Narrative"
+    ],
     "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi.",
     "sub_comp": "Menyimpulkan topik, ide pokok/gagasan utama, makna, target pembaca, tujuan penulisan teks, atau pesan moral.",
     "text": "<h3 style='text-align: center;'>The Clockmaker’s Daughter</h3><p>In the clock-tower city of Oakhaven, time was the most valuable thing. Every citizen was given a small silver watch at birth that showed how much time they had to complete their life's work. Clara, the daughter of the Master Clockmaker, was different. Her watch didn't tick; it stayed perfectly still at twelve o'clock. Because of this, many people in the city thought she was cursed or broken.</p><p>Clara spent her days in her father’s workshop, surrounded by cogs, springs, and the smell of oil. One day, the Great City Clock—the machine that powered all the watches in Oakhaven—suddenly stopped. The city fell into a panic. People froze in place, and the sky turned a dull grey. Only Clara could still move, because her time had never been tied to the Great Clock. She realized that the \"curse\" was actually a gift.</p><p>She climbed the highest tower and looked into the giant gears of the Great Clock. She found that a small bird had built a nest inside the main spring, stopping the mechanism. Clara gently moved the nest to a safe window ledge and used her own \"still\" watch to jump-start the gears. As she touched the main wheel, her watch finally began to tick. The city roared back to life, and the sky turned blue again.</p><p>The people realized that being \"different\" didn't mean being \"broken.\" Clara wasn't a girl with no time; she was the girl who held time in her hands.</p>",
@@ -1156,6 +1212,10 @@
     "num": 56,
     "type": "Kategori",
     "bentuk": "PGK Kategori",
+    "columns": [
+      "Required",
+      "Not Required"
+    ],
     "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
     "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
     "text": "<img src='assets/images/reading3.jpg' style='max-width: 100%;'>",
@@ -1178,6 +1238,10 @@
     "num": 57,
     "type": "Kategori",
     "bentuk": "PGK Kategori",
+    "columns": [
+      "True",
+      "False"
+    ],
     "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
     "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
     "text": "<img src='assets/images/reading3.jpg' style='max-width: 100%;'>",
@@ -1200,6 +1264,10 @@
     "num": 58,
     "type": "Kategori",
     "bentuk": "PGK Kategori",
+    "columns": [
+      "Safe",
+      "Dangerous"
+    ],
     "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
     "sub_comp": "Menyimpulkan hubungan sebab-akibat: mampu menafsirkan hubungan/kaitan antara gagasan/tindakan satu dan lainnya yang dinyatakan dalam teks.",
     "text": "<img src='assets/images/reading3.jpg' style='max-width: 100%;'>",
@@ -1222,6 +1290,10 @@
     "num": 59,
     "type": "Kategori",
     "bentuk": "PGK Kategori",
+    "columns": [
+      "Fact",
+      "Opinion"
+    ],
     "comp": "Evaluasi dan Apresiasi: mampu membuat penilaian terhadap ide, menanggapi teks secara emosional dan estetis dengan mempertimbangkan dampaknya terhadap perasaan, imajinasi, serta penggunaan bahasa oleh penulis.",
     "sub_comp": "Menilai fakta atau opini: mampu menilai fakta/opini yang diberikan penulis untuk mendukung pendapatnya berdasarkan bukti atau sekadar berusaha mempengaruhi pembaca.",
     "text": "<img src='assets/images/reading3.jpg' style='max-width: 100%;'>",
@@ -1244,6 +1316,10 @@
     "num": 60,
     "type": "Kategori",
     "bentuk": "PGK Kategori",
+    "columns": [
+      "Early Stage",
+      "Late Stage"
+    ],
     "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
     "sub_comp": "Menyimpulkan urutan kejadian: mampu memperkirakan isi selanjutnya dari teks.",
     "text": "<img src='assets/images/reading3.jpg' style='max-width: 100%;'>",
@@ -1468,6 +1544,10 @@
     "num": 71,
     "type": "Kategori",
     "bentuk": "PGK Kategori",
+    "columns": [
+      "Tools/Skills",
+      "Risks"
+    ],
     "comp": "Evaluasi dan Apresiasi: mampu membuat penilaian terhadap ide, menanggapi teks secara emosional dan estetis dengan mempertimbangkan dampaknya terhadap perasaan, imajinasi, serta penggunaan bahasa oleh penulis.",
     "sub_comp": "Menilai fakta atau opini: mampu menilai fakta/opini yang diberikan penulis untuk mendukung pendapatnya berdasarkan bukti atau sekadar berusaha mempengaruhi pembaca.",
     "text": "<h3 style='text-align: center;'>The Necessity of Financial Literacy in Schools</h3><p>As students transition into adulthood, they face a complex world of credit cards, loans, and investment opportunities. Unfortunately, many young people enter the \"real world\" without basic financial knowledge. Therefore, it is imperative that financial literacy becomes a mandatory part of the high school curriculum.</p><p>One primary reason is the prevention of debt. Many young adults fall into the trap of high-interest credit card debt because they do not understand how interest rates or minimum payments work. By teaching students how to manage debt and understand credit scores, schools can help them avoid financial burdens that could last for decades.</p><p>Furthermore, financial literacy empowers students to plan for the future. Understanding the power of compound interest and the importance of early savings can lead to long-term wealth and stability. Students who learn to budget their money are more likely to achieve their goals, such as buying a home or starting a business, without relying on predatory loans.</p><p>Finally, financial education protects individuals from fraud. In the digital age, financial scams are becoming increasingly sophisticated. A financially literate person is better at recognizing \"too good to be true\" offers and protecting their personal information. Knowledge is the best defense against those who wish to exploit financial ignorance.</p><p>In summary, providing students with financial skills is an investment in their future. It ensures they are responsible, prepared, and protected as they navigate their economic lives.</p>",
@@ -1490,6 +1570,10 @@
     "num": 72,
     "type": "Kategori",
     "bentuk": "PGK Kategori",
+    "columns": [
+      "True",
+      "False"
+    ],
     "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
     "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
     "text": "<h3 style='text-align: center;'>The Necessity of Financial Literacy in Schools</h3><p>As students transition into adulthood, they face a complex world of credit cards, loans, and investment opportunities. Unfortunately, many young people enter the \"real world\" without basic financial knowledge. Therefore, it is imperative that financial literacy becomes a mandatory part of the high school curriculum.</p><p>One primary reason is the prevention of debt. Many young adults fall into the trap of high-interest credit card debt because they do not understand how interest rates or minimum payments work. By teaching students how to manage debt and understand credit scores, schools can help them avoid financial burdens that could last for decades.</p><p>Furthermore, financial literacy empowers students to plan for the future. Understanding the power of compound interest and the importance of early savings can lead to long-term wealth and stability. Students who learn to budget their money are more likely to achieve their goals, such as buying a home or starting a business, without relying on predatory loans.</p><p>Finally, financial education protects individuals from fraud. In the digital age, financial scams are becoming increasingly sophisticated. A financially literate person is better at recognizing \"too good to be true\" offers and protecting their personal information. Knowledge is the best defense against those who wish to exploit financial ignorance.</p><p>In summary, providing students with financial skills is an investment in their future. It ensures they are responsible, prepared, and protected as they navigate their economic lives.</p>",
@@ -1512,17 +1596,21 @@
     "num": 73,
     "type": "Kategori",
     "bentuk": "PGK Kategori",
+    "columns": [
+      "Correct",
+      "Not Correct"
+    ],
     "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
     "sub_comp": "Menyimpulkan hubungan sebab-akibat: mampu menafsirkan hubungan/kaitan antara gagasan/tindakan satu dan lainnya yang dinyatakan dalam teks.",
     "text": "<h3 style='text-align: center;'>The Necessity of Financial Literacy in Schools</h3><p>As students transition into adulthood, they face a complex world of credit cards, loans, and investment opportunities. Unfortunately, many young people enter the \"real world\" without basic financial knowledge. Therefore, it is imperative that financial literacy becomes a mandatory part of the high school curriculum.</p><p>One primary reason is the prevention of debt. Many young adults fall into the trap of high-interest credit card debt because they do not understand how interest rates or minimum payments work. By teaching students how to manage debt and understand credit scores, schools can help them avoid financial burdens that could last for decades.</p><p>Furthermore, financial literacy empowers students to plan for the future. Understanding the power of compound interest and the importance of early savings can lead to long-term wealth and stability. Students who learn to budget their money are more likely to achieve their goals, such as buying a home or starting a business, without relying on predatory loans.</p><p>Finally, financial education protects individuals from fraud. In the digital age, financial scams are becoming increasingly sophisticated. A financially literate person is better at recognizing \"too good to be true\" offers and protecting their personal information. Knowledge is the best defense against those who wish to exploit financial ignorance.</p><p>In summary, providing students with financial skills is an investment in their future. It ensures they are responsible, prepared, and protected as they navigate their economic lives.</p>",
-    "q": "Match the Cause and Effect based on the text. Are these pairs Sesuai (Correct) or Tidak Sesuai (Incorrect)?",
+    "q": "Match the Cause and Effect based on the text. Are these pairs Correct or Not Correct?",
     "items": [
       "Lack of financial education -> Increased risk of falling into debt.",
       "Starting a business -> Always leads to forgetting how to budget.",
       "Financial knowledge -> Better recognition of sophisticated scams.",
       "Using digital tools -> Automatically results in loss of savings."
     ],
-    "key": "1-Sesuai, 2-Tidak Sesuai, 3-Sesuai, 4-Tidak Sesuai",
+    "key": "1-Correct, 2-Not Correct, 3-Correct, 4-Not Correct",
     "correct": [
       0,
       1,
@@ -1534,6 +1622,10 @@
     "num": 74,
     "type": "Kategori",
     "bentuk": "PGK Kategori",
+    "columns": [
+      "Financial Literacy",
+      "Financial Ignorance"
+    ],
     "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
     "sub_comp": "Mengklasifikasi: mampu mengelompokkan orang, benda, tempat, atau peristiwa dalam teks berdasarkan kategori tertentu.",
     "text": "<h3 style='text-align: center;'>The Necessity of Financial Literacy in Schools</h3><p>As students transition into adulthood, they face a complex world of credit cards, loans, and investment opportunities. Unfortunately, many young people enter the \"real world\" without basic financial knowledge. Therefore, it is imperative that financial literacy becomes a mandatory part of the high school curriculum.</p><p>One primary reason is the prevention of debt. Many young adults fall into the trap of high-interest credit card debt because they do not understand how interest rates or minimum payments work. By teaching students how to manage debt and understand credit scores, schools can help them avoid financial burdens that could last for decades.</p><p>Furthermore, financial literacy empowers students to plan for the future. Understanding the power of compound interest and the importance of early savings can lead to long-term wealth and stability. Students who learn to budget their money are more likely to achieve their goals, such as buying a home or starting a business, without relying on predatory loans.</p><p>Finally, financial education protects individuals from fraud. In the digital age, financial scams are becoming increasingly sophisticated. A financially literate person is better at recognizing \"too good to be true\" offers and protecting their personal information. Knowledge is the best defense against those who wish to exploit financial ignorance.</p><p>In summary, providing students with financial skills is an investment in their future. It ensures they are responsible, prepared, and protected as they navigate their economic lives.</p>",
@@ -1556,6 +1648,10 @@
     "num": 75,
     "type": "Kategori",
     "bentuk": "PGK Kategori",
+    "columns": [
+      "Valid",
+      "Invalid"
+    ],
     "comp": "Evaluasi dan Apresiasi: mampu membuat penilaian terhadap ide, menanggapi teks secara emosional dan estetis dengan mempertimbangkan dampaknya terhadap perasaan, imajinasi, serta penggunaan bahasa oleh penulis.",
     "sub_comp": "Menilai kecukupan dan validitas informasi: Menilai kesesuaian, kelengkapan, keakuratan informasi dalam teks (dengan membandingkannya dengan sumber lain).",
     "text": "<h3 style='text-align: center;'>The Necessity of Financial Literacy in Schools</h3><p>As students transition into adulthood, they face a complex world of credit cards, loans, and investment opportunities. Unfortunately, many young people enter the \"real world\" without basic financial knowledge. Therefore, it is imperative that financial literacy becomes a mandatory part of the high school curriculum.</p><p>One primary reason is the prevention of debt. Many young adults fall into the trap of high-interest credit card debt because they do not understand how interest rates or minimum payments work. By teaching students how to manage debt and understand credit scores, schools can help them avoid financial burdens that could last for decades.</p><p>Furthermore, financial literacy empowers students to plan for the future. Understanding the power of compound interest and the importance of early savings can lead to long-term wealth and stability. Students who learn to budget their money are more likely to achieve their goals, such as buying a home or starting a business, without relying on predatory loans.</p><p>Finally, financial education protects individuals from fraud. In the digital age, financial scams are becoming increasingly sophisticated. A financially literate person is better at recognizing \"too good to be true\" offers and protecting their personal information. Knowledge is the best defense against those who wish to exploit financial ignorance.</p><p>In summary, providing students with financial skills is an investment in their future. It ensures they are responsible, prepared, and protected as they navigate their economic lives.</p>",
