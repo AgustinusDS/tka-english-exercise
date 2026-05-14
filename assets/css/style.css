@@ -448,3 +448,75 @@ td.wrong-highlight { background-color: #f8d7da !important; }
   text-justify: inter-word; /* Makes the spacing between words look cleaner */
   margin-bottom: 15px; /* Adds a nice breathing room between paragraphs */
 }
+
+/* --- MOBILE RESPONSIVENESS --- */
+@media (max-width: 395px) {
+  #btn-prev, #btn-next {
+    font-size: 0.99rem;
+  }
+}
+
+/* --- DESKTOP APP LAYOUT (FIXED SCREEN, INTERNAL SCROLLING) --- */
+@media (min-width: 900px) {
+  /* 1. Lock the body to the exact height of the screen */
+  body {
+    height: 100vh;
+    overflow: hidden; /* Kills the main webpage scrollbar */
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* 2. Tell the main grid to fill the remaining space below the header */
+  .content-grid {
+    flex: 1;
+    min-height: 0; /* Crucial for flexbox to allow shrinking */
+    padding-bottom: 20px;
+  }
+
+  /* 3. Make both left and right panels scroll independently on the inside */
+  /* This targets both sections inside your grid */
+	.text-panel,
+	.question-panel {
+			display: flex;
+			flex-direction: column;
+			max-height: calc(100vh - 160px);
+	}
+
+	.scroll-area,
+	.question-panel {
+    padding-right: 7.5px;
+    overflow-y: auto;
+    box-sizing: border-box;
+    scrollbar-gutter: stable;
+}
+
+	.panel-header {
+    width: 100%;
+    box-sizing: border-box;
+	}
+
+	.scroll-area {
+    padding: 20px;
+    max-height: 500px;
+    overflow-y: auto;
+    line-height: 1.6;
+    scrollbar-gutter: stable;
+	}
+
+  /* 4. A clean, modern scrollbar so it doesn't look clunky */
+  .content-grid > section::-webkit-scrollbar,
+  .content-grid > div::-webkit-scrollbar {
+    width: 6px;
+  }
+  
+  .content-grid > section::-webkit-scrollbar-thumb,
+  .content-grid > div::-webkit-scrollbar-thumb {
+    background-color: #cbd5e1;
+    border-radius: 10px;
+  }
+  
+  .content-grid > section::-webkit-scrollbar-track,
+  .content-grid > div::-webkit-scrollbar-track {
+    background-color: transparent;
+  }
+}
