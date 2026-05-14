@@ -484,11 +484,11 @@ td.wrong-highlight { background-color: #f8d7da !important; }
 
 	.scroll-area,
 	.question-panel {
-    padding-right: 7.5px;
-    overflow-y: auto;
-    box-sizing: border-box;
-    scrollbar-gutter: stable;
-}
+        padding-right: 7.5px;
+        overflow-y: auto;
+        box-sizing: border-box;
+        scrollbar-gutter: stable;
+    }
 
 	.panel-header {
     width: 100%;
