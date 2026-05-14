@@ -59,6 +59,7 @@ function loadQuestion(index) {
     document.getElementById('q-comp').innerText = q.comp || "-";
     document.getElementById('q-sub-comp').innerText = q.sub_comp || "-"; 
     document.getElementById('q-bentuk').innerText = q.bentuk || "-";
+    document.getElementById('q-jenis').innerText = q.jenis || "-";
     document.getElementById('question-text').innerText = q.q;
     document.getElementById('reading-content').innerHTML = q.text || "";
     
